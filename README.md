@@ -43,6 +43,6 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 Edit this file (README.md) and complete the following:
 
 - URL to live application:   https://prof-tejera.github.io/homework-2-ruadh/
-- VSCode
+- What code editor are you using:  VSCode on a Mac
 
 That is all!
