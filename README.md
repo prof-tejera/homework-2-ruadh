@@ -42,7 +42,7 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- VSCode 1.82.2 for MacOS
+- URL to live application:   https://prof-tejera.github.io/homework-2-ruadh/
+- VSCode
 
 That is all!
